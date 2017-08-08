@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderManager", "OrderManager.csproj", "{020DAE59-5133-41D8-86A7-D7B5FC643847}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "OrderManagerDBProject", "OrderManagerDBProject\OrderManagerDBProject.sqlproj", "{8E4AE686-1C9A-4122-83C9-3828AD26EDD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,12 @@ Global
 		{020DAE59-5133-41D8-86A7-D7B5FC643847}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{020DAE59-5133-41D8-86A7-D7B5FC643847}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{020DAE59-5133-41D8-86A7-D7B5FC643847}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E4AE686-1C9A-4122-83C9-3828AD26EDD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E4AE686-1C9A-4122-83C9-3828AD26EDD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E4AE686-1C9A-4122-83C9-3828AD26EDD2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8E4AE686-1C9A-4122-83C9-3828AD26EDD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E4AE686-1C9A-4122-83C9-3828AD26EDD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E4AE686-1C9A-4122-83C9-3828AD26EDD2}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
